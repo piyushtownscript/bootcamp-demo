@@ -1,13 +1,12 @@
 {
   "team": [
-    {
-      "id": 1,
-      "title": "Sushant"
-    },
-    {
-      "id": 2,
-      "title": "Pratik"
-    }
+    { "id": 1, "title": "Sushant" },
+    { "id": 2, "title": "Pratik" },
+    { "id": 3, "title": "Nags" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
