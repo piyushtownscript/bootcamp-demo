@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "team": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Sushant"
+    },
+    {
+      "id": 2,
+      "title": "Pratik"
     }
   ],
   "profile": {
